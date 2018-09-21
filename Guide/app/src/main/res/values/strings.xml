@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kenyatour</string>
+    <string name="category_topspots">TOP SPOTS</string>
+    <string name="category_restaurants">RESTAURANTS</string>
+    <string name="category_religious">PARKS</string>
+    <string name="category_shopping">SHOPPING</string>
+</resources>
